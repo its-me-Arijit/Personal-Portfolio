@@ -16,3 +16,4 @@ function toggleMenu() {
 function downloadURLBankZipFile() {
   downloadZipFile('URL_BANK.zip');
 }
+
