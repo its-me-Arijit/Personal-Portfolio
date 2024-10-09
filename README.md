@@ -6,10 +6,11 @@
 
 [https://arijitghoshportfolio.netlify.app/](https://arijitghoshportfolio.netlify.app/)
 
+
 <h2>Project Screenshots:</h2>
 
-<img src="https://github.com/user-attachments/assets/8f3f7c54-798e-449c-928d-a403cda7db59" alt="project-screenshot" width="500" height="500/">
 
+![Screenshot (60)](https://github.com/user-attachments/assets/d41276dc-9907-4050-96dd-57423b8a3216)
   
   
 <h2>💻 Built with</h2>
