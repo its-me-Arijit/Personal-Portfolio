@@ -1,6 +1,6 @@
 <h1 align="center" id="title">My Portfolio</h1>
 
-<p id="description">My portfolio website highlights my skills projects resume and professional achievements in a clean and organized way. It serves as a comprehensive showcase of my expertise including web development coding projects and certifications. I've designed the site to provide potential employers or collaborators with an easy and engaging way to explore my work reflecting both my technical abilities and my passion for creating user-friendly experiences.</p>
+<p id="description">My portfolio highlights my skills projects resume and professional achievements in a clean and organized way. It serves as a comprehensive showcase of my expertise including web development coding projects and certifications. I've designed the site to provide potential employers or collaborators with an easy and engaging way to explore my work reflecting both my technical abilities and my passion for creating user-friendly experiences.</p>
 
 <h2>🚀 Demo</h2>
 
